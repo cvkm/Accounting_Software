@@ -1,0 +1,9 @@
+* Catrgories
+
+** Groceries
+** Vegetables
+** Snacks
+** Medicines
+** Petrol/Diesel
+** Bills (TV/Electricity/Recharge/Milk etc)
+** Shopping
